@@ -1,6 +1,8 @@
 # ETH Google Developer Student Group - Workshops on Neural Networks
 This repositories contains the material for 4 workshops given at the ETH together with the Google Developer Student Group.
 
+Registration Link: [REGISTER HERE](https://gdsc.community.dev/events/details/developer-student-clubs-eth-zurich-presents-ml-workshop-neural-networks-in-tensorflow-with-google-developer-expert/)
+
 ![](https://github.com/toelt-llc/ETH-ZURICH-GDSC-WORKSHOPS-2022/blob/main/ML%20Workshops.png)
 
 # Online Material
