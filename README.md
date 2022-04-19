@@ -21,11 +21,8 @@ In this lecture we will look first at  Jupyter notebooks. Those are the common t
 
 1. [Google colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true) - An Introduction
 2. Keras and TensorFlow - An Introduction [PowerPoint Download Link](https://github.com/toelt-llc/SUPSI-Lectures-2022/blob/main/1%20-%20Keras%20and%20TF/Quick%20Keras%20Overview.pptx)
-3. Hands-on session - [JUPYTER NOTEBOOK](https://colab.research.google.com/github/toelt-llc/SUPSI-Lectures-2022/blob/main/1%20-%20Keras%20and%20TF/code/Easy_Network_with_Keras.ipynb)
-
-- For a basic introduction to Keras the hands-on session will be based mostly on one [Jupyter Notebook](https://github.com/toelt-llc/SUPSI-Lectures-2022/blob/main/1%20-%20Keras%20and%20TF/code/Easy_Network_with_Keras.ipynb).
-
-- Custom training basic example: [Custom Training basic Example](http://adl.toelt.ai/Optimizers/Custom_Training_Loop.html)
+3. Hands-on session - [Easy Network with Keras](https://colab.research.google.com/github/toelt-llc/SUPSI-Lectures-2022/blob/main/1%20-%20Keras%20and%20TF/code/Easy_Network_with_Keras.ipynb)
+4. Hands-on session - [Custom Training loop basic Example](http://adl.toelt.ai/Optimizers/Custom_Training_Loop.html)
 
 ## Additional and Bonus Material
 
