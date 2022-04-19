@@ -5,6 +5,8 @@ This repositories contains the material for 4 workshops given at the ETH togethe
 
 A lot of material on Deep Learning and nueral network can be found at my [book companion website](https://adl.toelt.ai). My book (Applied Deep Learning with TensorFlow 2 published by Springer/APRESS) can be [bought here](https://link.springer.com/book/10.1007/978-1-4842-8020-1).
 
+![](https://github.com/toelt-llc/ETH-ZURICH-GDSC-WORKSHOPS-2022/blob/main/ML%20Workshops.png)
+
 # Lecture 1 - 21st April 2022 - Introduction to Keras and Neural Networks
 
 In this lecture we will look first at  Jupyter notebooks. Those are the common tool used by data scientists and machine learning engineering during the exploratory phase of the machine learning pipeline. We will look at Google Colab, an online version of Jupyter notebooks that does not require any local installation. We will use this tool during our lectures. After that we will look at TensorFlow and Keras and how they work. We will look at very basic examples and then at advanced usage. Finally we will have a hands-on session in which we will use Keras to build a very easy neural network to classify images.
