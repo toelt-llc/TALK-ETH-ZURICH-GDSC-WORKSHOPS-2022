@@ -3,9 +3,9 @@ This repositories contains the material for 4 workshops given at the ETH togethe
 
 Registration Link: [REGISTER HERE](https://gdsc.community.dev/events/details/developer-student-clubs-eth-zurich-presents-ml-workshop-neural-networks-in-tensorflow-with-google-developer-expert/)
 
-<img src="https://github.com/toelt-llc/ETH-ZURICH-GDSC-WORKSHOPS-2022/blob/main/ML%20Workshops.png" data-canonical-src="https://github.com/toelt-llc/ETH-ZURICH-GDSC-WORKSHOPS-2022/blob/main/ML%20Workshops.png" width="350" />
+<img src="https://github.com/toelt-llc/ETH-ZURICH-GDSC-WORKSHOPS-2022/blob/main/ML%20Workshops.png" data-canonical-src="https://github.com/toelt-llc/ETH-ZURICH-GDSC-WORKSHOPS-2022/blob/main/ML%20Workshops.png" width="450" />
 
-![]( )
+
 
 # Online Material
 
@@ -33,25 +33,3 @@ The hands-on session will be based mostly on one [Jupyter Notebook](https://gith
 
   [Lecture on Neural Networks](https://docs.google.com/presentation/d/1SbPDwVeBwG4FoV1ySLGyc6C2C8r0vcKgEF4v8IvaSlE/edit?usp=sharing)
 
-# Lecture 2 - 11th April 2022 - Introduction to Autoencoders
-
-In this lecture we will look at what autoencoders are and what you can do with those special neural network architecture. A complete introduction can be found in [this paper](https://arxiv.org/abs/2201.03898). We will look at the following topics
-
-- What are autoencoders ([Introduction Paper](https://arxiv.org/abs/2201.03898))
-- Denoising autoencoders
-- Autoencoders for dimensionality reduction
-
-## Code examples
-
-- [Your first autoencoder](https://colab.research.google.com/github/toelt-llc/ADL-Book-2nd-Ed/blob/master/docs/Autoencoders/Your_first_autoencoder_with_Keras.ipynb)
-- [Anomaly Detection with autoencoders](https://colab.research.google.com/github/toelt-llc/ADL-Book-2nd-Ed/blob/master/docs/Autoencoders/Anomaly_detection_with_autoencoders.ipynb)
-- [Denoising Autoencoders with Feed Forward Neural Networks](https://colab.research.google.com/github/toelt-llc/ADL-Book-2nd-Ed/blob/master/docs/Autoencoders/Denoising_autoencoders_with_FFNN.ipynb)
-- [Denoising Autoencoders with Convolutional Neural Networks](https://colab.research.google.com/github/toelt-llc/ADL-Book-2nd-Ed/blob/master/docs/Autoencoders/Denoising_autoencoders_with_CNN.ipynb)
-
-# Lecture 3 - 23rd May 2022 - Introduction to Generative Adversarial Networks
-
-Material coming soon.
-
-# Lecture 4 - 30th May 2022 - Use cases discussion in Industry and Research
-
-Material coming soon.
