@@ -1,9 +1,13 @@
 # ETH Google Developer Student Group - Workshops on Neural Networks
 This repositories contains the material for 4 workshops given at the ETH together with the Google Developer Student Group.
 
+![](https://github.com/toelt-llc/ETH-ZURICH-GDSC-WORKSHOPS-2022/blob/main/ML%20Workshops.png)
+
 # Online Material
 
 A lot of material on Deep Learning and nueral network can be found at my [book companion website](https://adl.toelt.ai). My book (Applied Deep Learning with TensorFlow 2 published by Springer/APRESS) can be [bought here](https://link.springer.com/book/10.1007/978-1-4842-8020-1).
+
+
 
 # Lecture 1 - 21st April 2022 - Introduction to Keras and Neural Networks
 
