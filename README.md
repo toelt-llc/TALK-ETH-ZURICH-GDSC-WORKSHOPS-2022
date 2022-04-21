@@ -25,6 +25,7 @@ In this lecture we will look first at  Jupyter notebooks. Those are the common t
 4. Multi-Task Learning with Keras [PowerPoint Download Link](https://github.com/toelt-llc/ETH-ZURICH-GDSC-WORKSHOPS-2022/blob/main/1%20-%20Keras%20and%20TF/multi-task-learning.pptx)
 5. Hands-on session - [Easy Network with Keras](https://colab.research.google.com/github/toelt-llc/SUPSI-Lectures-2022/blob/main/1%20-%20Keras%20and%20TF/code/Easy_Network_with_Keras.ipynb)
 6. Hands-on session - [Custom Training loop basic Example](http://adl.toelt.ai/Optimizers/Custom_Training_Loop.html)
+7. Hands-on session - [Convolutional Neural Network and classification](http://adl.toelt.ai/CNN/Multiclass_classification_with_convolutional_neural_networks.html)
 
 ## Additional and Bonus Material
 
