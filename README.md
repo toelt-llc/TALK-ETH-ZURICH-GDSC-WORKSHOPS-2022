@@ -34,4 +34,6 @@ In this lecture we will look first at  Jupyter notebooks. Those are the common t
 - You can also find an introduction to Neural Networks in the slides for a lecture given by Umberto Michelucci at the ETH university in Zürich, Switzerland. They are google slides and should be accessible online easily.
 
   [Lecture on Neural Networks](https://docs.google.com/presentation/d/1SbPDwVeBwG4FoV1ySLGyc6C2C8r0vcKgEF4v8IvaSlE/edit?usp=sharing)
+  
+- Here you can find lots of material on Convolutional Neural Networks from a 2-day workshop I gave in London at the O'Reilly conference [Link to GitHub](https://github.com/toelt-llc/oreilly-london-ai)
 
