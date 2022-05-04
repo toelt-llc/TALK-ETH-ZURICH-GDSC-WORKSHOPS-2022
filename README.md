@@ -37,3 +37,17 @@ In this lecture we will look first at  Jupyter notebooks. Those are the common t
   
 - Here you can find lots of material on Convolutional Neural Networks from a 2-day workshop I gave in London at the O'Reilly conference [Link to GitHub](https://github.com/toelt-llc/oreilly-london-ai)
 
+# Lecture 2 - Autoencoders
+
+In this lecture we will look at autoencoders. You can find an introduction in this paper I wrote
+
+[Introduction to Autoencoders by Michelucci](https://github.com/toelt-llc/ETH-ZURICH-GDSC-WORKSHOPS-2022/blob/main/2%20-%20Autoencoders/An%20Introduction%20to%20Autoencoders.pdf)
+
+that can be found also on arxiv (Michelucci, Umberto. "An Introduction to Autoencoders." arXiv preprint arXiv:2201.03898 (2022))
+
+## Link to Jupyter notebooks
+
+1. [Your first autoencoder](http://adl.toelt.ai/Autoencoders/Your_first_autoencoder_with_Keras.html)
+2. [Anomaly Detection with Autoencoders](http://adl.toelt.ai/Autoencoders/Anomaly_detection_with_autoencoders.html)
+3. [Denoising Images with FFA](http://adl.toelt.ai/Autoencoders/Denoising_autoencoders_with_FFNN.html)
+4. [Denoising Images with CNN](http://adl.toelt.ai/Autoencoders/Denoising_autoencoders_with_CNN.html)
