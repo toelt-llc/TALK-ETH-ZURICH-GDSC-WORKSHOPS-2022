@@ -47,7 +47,7 @@ that can be found also on arxiv (Michelucci, Umberto. "An Introduction to Autoen
 
 ## Link to Jupyter notebooks
 
-1. [Your first autoencoder](http://adl.toelt.ai/Autoencoders/Your_first_autoencoder_with_Keras.html)
-2. [Anomaly Detection with Autoencoders](http://adl.toelt.ai/Autoencoders/Anomaly_detection_with_autoencoders.html)
-3. [Denoising Images with FFA](http://adl.toelt.ai/Autoencoders/Denoising_autoencoders_with_FFNN.html)
-4. [Denoising Images with CNN](http://adl.toelt.ai/Autoencoders/Denoising_autoencoders_with_CNN.html)
+1. Hands-on session: [Your first autoencoder](http://adl.toelt.ai/Autoencoders/Your_first_autoencoder_with_Keras.html)
+2. Hands-on session: [Anomaly Detection with Autoencoders](http://adl.toelt.ai/Autoencoders/Anomaly_detection_with_autoencoders.html)
+3. Hands-on session: [Denoising Images with FFA](http://adl.toelt.ai/Autoencoders/Denoising_autoencoders_with_FFNN.html)
+4. Hands-on session: [Denoising Images with CNN](http://adl.toelt.ai/Autoencoders/Denoising_autoencoders_with_CNN.html)
